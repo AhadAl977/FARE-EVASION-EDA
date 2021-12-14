@@ -2,7 +2,7 @@
 
 
 ##### Abstract
-The main goal of this project is to minimize the rate of fare evasion crime in New York City through the betterment of distribution of the manpower of NYPD (New York Police Department) in the busiest stations since this study depicts a clear correlation between traffic and the possibility of fare evasion crimes happening in said stations. Moving over, provided with the data are graphs depicting trends, demographics which visualize the data points used which communicate the main purpose of this study.
+The main goal of this project is to minimize the rate of fare evasion crime in New York City through the betterment of distribution of the manpower of NYPD (New York Police Department) in the busiest stations since this study depicts a clear correlation between traffic and the possibility of fare evasion crimes happening in said stations. More over, provided with the data are graphs depicting trends, demographics which visualize the data points used which communicate the main purpose of this study.
 
 ##### Design
 New York City suffered from fare evasion crime for so many years and the New York Police Department kept a record for the number of crimes happening on a yearly basis. The last recorded data was back in 2018. With the conjuction of the turnstile dataset from the same time period it resulted in useful insights ranging from the number of crimes per station all the way to the age group responsiable for fare evasion crimes.
